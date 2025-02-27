@@ -35,11 +35,3 @@
 
 ###
 
-<h1 align="left">My Music</h1>
-
-###
-
-[![Spotify](https://novatorem-nine-fawn-98.vercel.app/api/spotify)](https://open.spotify.com/user/streetdancingtt)
-
-###
-
