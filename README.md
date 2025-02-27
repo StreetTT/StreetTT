@@ -39,7 +39,7 @@
 
 ###
 
-[![Spotify](https://StreetTT.vercel.app/api/spotify)](https://open.spotify.com/user/bowfromhitshowshera)
+[![Spotify](https://novatorem-nine-fawn-98.vercel.app/api/spotify)](https://open.spotify.com/user/bowfromhitshowshera)
 
 ###
 
