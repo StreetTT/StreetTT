@@ -29,12 +29,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StreetTT&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=false&order=1&custom_title=%20" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=StreetTT&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=true&order=1&custom_title=%20" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=StreetTT&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=vision-friendly-dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/StreetTT/StreetTT/output/snake.svg" alt="Snake animation" />
 
 ###
